@@ -18,12 +18,16 @@ export const Hero = () => {
       {/* Content */}
       <div className="container mx-auto px-6 relative z-10">
         <div className="max-w-4xl mx-auto text-center animate-fade-in">
+          <h2 className="text-2xl md:text-3xl font-semibold mb-4 text-primary">
+            Aditya Kareer
+          </h2>
+          
           <div className="inline-block mb-4 px-4 py-2 bg-primary/10 rounded-full text-sm font-medium text-primary">
             Available to Start: Mid-January 2026 • Stockholm, Sweden
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 text-balance">
-            Transforming Data Into
+            Transforming Data Into Business Value
             <span className="block mt-2 bg-clip-text text-transparent gradient-nordic">
               Strategic Impact
             </span>
